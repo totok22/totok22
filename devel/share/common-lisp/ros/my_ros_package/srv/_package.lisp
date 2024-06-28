@@ -1,0 +1,15 @@
+(cl:defpackage my_ros_package-srv
+  (:use )
+  (:export
+   "ADDONE"
+   "<ADDONE-REQUEST>"
+   "ADDONE-REQUEST"
+   "<ADDONE-RESPONSE>"
+   "ADDONE-RESPONSE"
+   "MULTIPLYTWO"
+   "<MULTIPLYTWO-REQUEST>"
+   "MULTIPLYTWO-REQUEST"
+   "<MULTIPLYTWO-RESPONSE>"
+   "MULTIPLYTWO-RESPONSE"
+  ))
+
