@@ -1,10 +1,24 @@
 
-
-# my_ros_package
+# 话题通讯题目
 
 ## 简介
 
 `my_ros_package` 包含两个主要的节点：一个发布节点和一个接收节点。发布节点从键盘接收整型数据并以10Hz的频率发布消息。接收节点接收该消息，加1后打印输出。
+
+
+## 文件结构
+
+```
+my_ros_package/
+├── src/
+├── srv/
+│   └── AddOne.srv
+├── scripts/
+│   ├── subscriber.py
+│   └── publisher.py
+├── CMakeLists.txt
+└── package.xml
+```
 
 ## 依赖
 
