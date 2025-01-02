@@ -1,6 +1,5 @@
 ## Hi there 👋
-四足机器人预选赛题目
-<!--
+
 **totok22/totok22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
