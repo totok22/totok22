@@ -1,8 +1,0 @@
-prefix=/home/wulibo/ros_ws/install
-
-Name: my_ros_package
-Description: Description of my_ros_package
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: rospy std_msgs message_runtime
