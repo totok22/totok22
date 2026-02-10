@@ -1,8 +1,0 @@
-prefix=/home/wulibo/mini2_description/build/devel
-
-Name: mini2_description
-Description: Description of mini2_description
-Version: 1.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
